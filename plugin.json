@@ -1,0 +1,6 @@
+{
+    "name" : "SimpleGeo Weather Plugin",
+    "author" : "Andrew Watson <watson@twilio.com>",
+    "description" : "Get Weather Context From Simple Geo",
+    "url" : "http://openvbx.org"
+}  
